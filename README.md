@@ -12,4 +12,4 @@ Twitter: https://rinu.cf/twitter
 
 YouTube: https://rinu.cf/yt
 
-## Nite to meet you!
+## Nice to meet you!
