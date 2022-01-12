@@ -1,7 +1,9 @@
 
-## Hi, I'm #ActiveTK. I'm a student in Japan.
+## Hi, I'm #ActiveTK.
 
-## I'm interested in cyber security, and I can write C#, JavaScript, and PHP.
+I'm a student in Japan.
+
+I'm interested in cyber security, and I can write C#, JavaScript, and PHP.
 
 ## ＜Links＞
 Website: https://rinu.cf/home
