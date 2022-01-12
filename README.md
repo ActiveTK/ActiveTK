@@ -5,7 +5,7 @@ I'm a student in Japan.
 
 I'm interested in cyber security, and I can write C#, JavaScript, and PHP.
 
-## ＜Links＞
+## Links
 Website: https://rinu.cf/home
 
 Twitter: https://rinu.cf/twitter
