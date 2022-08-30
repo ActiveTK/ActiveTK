@@ -1,15 +1,18 @@
 
 ## Hi, I'm #ActiveTK.
 
-I'm a student in Japan.
+サイバーセキュリティやダークウェブなどに興味がある中学生です。
 
-I'm interested in cyber security, and I can write C#, JavaScript, and PHP.
+趣味はプログラミングと法律勉強です。
+
+得意な分野はWeb開発からダークウェブの調査やBitcoinの追跡まで多岐に渡ります。
+
 
 ## Links
-Website: https://rinu.cf/home
+Website: https://www.activetk.jp/
 
-Twitter: https://rinu.cf/twitter
+Hidden Service: http://activetkqz22r3lvvvqeos5qnbrwfwzjajlaljbrqmybsooxjpkccpid.onion/
 
-YouTube: https://rinu.cf/yt
+Twitter: https://twitter.com/ActiveTK5929
 
 ## Nice to meet you!
