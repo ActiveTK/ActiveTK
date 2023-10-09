@@ -1,5 +1,5 @@
-
-## Hi, I'm #ActiveTK.
+<div style="background-color:#080808;color:#00bb00;">
+## Hi, it's me ActiveTK.
 
 情報セキュリティや匿名化技術などに興味がある学生です。
 
@@ -16,3 +16,4 @@ Hidden Service: http://activetkqz22r3lvvvqeos5qnbrwfwzjajlaljbrqmybsooxjpkccpid.
 Twitter: https://twitter.com/ActiveTK5929
 
 ## Nice to meet you!
+</div>
