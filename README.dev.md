@@ -1,9 +1,9 @@
  
 # Hi, it's me ActiveTK.
 
-<div style="color:#0b0;background-color:#080808;">
+<span style="color:#0b0;background-color:#080808;">
   test
-</div>
+</span>
 
 情報セキュリティや匿名化技術などに興味がある学生です。
 
