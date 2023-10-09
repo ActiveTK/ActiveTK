@@ -7,8 +7,6 @@
 
 得意な分野はWeb開発からダークウェブの調査やBitcoinの追跡まで多岐に渡ります。
 
-<script>document.write("test");</script>
-
 ## Links
 Website: https://www.activetk.jp/
 
