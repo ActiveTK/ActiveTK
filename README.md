@@ -5,9 +5,9 @@ Hi everyone, how's it going? It's me ActiveTK. A programmer, a security research
 
 I am both working hard and hardly working.
 
-Type `ssh inquiry.activetk.jp -p 256` on your terminal to contact with me.
+Type `ssh inquiry.activetk.jp -p 256` on your terminal to contact me.
 
-(PGP Public Key available at [here](https://pgp.end2end.tech/A11BC6255CC087FF12DF887B922B9E475FADA0F5) on Arweave Blockchain)
+(PGP Public Key available [here](https://pgp.end2end.tech/A11BC6255CC087FF12DF887B922B9E475FADA0F5) on Arweave Blockchain)
 
 # Links
 
