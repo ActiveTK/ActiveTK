@@ -7,6 +7,8 @@ I am both working hard and hardly working.
 
 Type `ssh inquiry.activetk.jp -p 256` on your terminal to contact with me.
 
+(PGP Public Key available at [here](https://pgp.end2end.tech/A11BC6255CC087FF12DF887B922B9E475FADA0F5) on Arweave Blockchain)
+
 # Links
 
 My Website: https://www.activetk.jp/
