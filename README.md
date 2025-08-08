@@ -1,17 +1,18 @@
- 
-# Hi, it's me ActiveTK.
 
-情報セキュリティや匿名化技術などに興味がある学生です。
+# Hello, World!
 
-趣味はプログラミングと法律勉強です。
+Hi everyone, how's it going? It's me ActiveTK. A programmer, a security researcher, a cat lover.
 
-得意な分野はWeb開発からダークウェブの調査やBitcoinの追跡まで多岐に渡ります。
+I am both working hard and hardly working.
 
-## Links
-Website: https://www.activetk.jp/
+Type `ssh inquiry.activetk.jp -p 256` on your terminal to contact with me.
 
-Hidden Service: http://activetkqz22r3lvvvqeos5qnbrwfwzjajlaljbrqmybsooxjpkccpid.onion/
+# Links
 
-Twitter: https://twitter.com/ActiveTK5929
+My Website: https://www.activetk.jp/
 
-## Nice to meet you!
+A Tech Blog: https://note.activetk.jp/
+
+Twitter (**Important: NOT "𝕏"**): https://twitter.com/ActiveTK5929
+
+## glad to meet you, see ya!
