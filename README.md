@@ -1,7 +1,7 @@
 
 # Hello, World!
 
-Hi everyone, how's it going? It's me ActiveTK. A programmer, a security researcher, a procrastinator.
+Hi everyone, how's it going? It's me ActiveTK. A programmer, a security researcher, a super procrastinator.
 
 I am both working hard and hardly working.
 
