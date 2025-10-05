@@ -11,7 +11,7 @@ Type `ssh inquiry.activetk.jp -p 256` on your terminal to contact me.
 
 # Links
 
-My Website: https://www.activetk.jp/
+My profile: https://profile.activetk.jp/
 
 A Tech Blog: https://note.activetk.jp/
 
